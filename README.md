@@ -4,6 +4,8 @@
 Tutorial 2
 ![Screenshot 2](/Tutorial2/IS690_hw2_sc_2.jpg)
 
+Migration file that is created after the command
+![Screenshot 3](/Tutorial2/migration.jpg)
 
 
 sidenote: had to use SQLlite instead of whatever DB was in the tutorial. for the second tutorial
